@@ -79,7 +79,7 @@ and [exposes](https://docs.docker.com/userguide/dockerlinks/) all the ports defi
 
 ## Import AIS data to HDFS
 
-A sample AIS data can be download from [MarineCadastre.gov](ftp://ftp.coast.noaa.gov/temp/MarineCadastre/AIS.SampleData.zip).
+A sample AIS data can be download from [MarineCadastre.gov](http://marinecadastre.gov/ais/).
 I converted the broadcast data into a CSV formatted file and placed a zipped copy in the `data` folder.
 
 ### Build the import job
